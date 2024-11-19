@@ -19,6 +19,8 @@
 ![js](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<hr>
+
 📢 Movie Community - 영화를 주제로 한 커뮤니티 (K-디지털 - 3조 팀 프로젝트)
 
 개발기간 : 2024. 07. 19 ~ 2024. 08. 06
