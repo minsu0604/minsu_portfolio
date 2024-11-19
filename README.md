@@ -23,17 +23,31 @@
 
 <h2>프로젝트 목록</h2>
 
-📢 Movie Community - 영화를 주제로 한 커뮤니티 (K-디지털 - 3조 팀 프로젝트)
+📢 Movie Community - 영화를 주제로 한 커뮤니티
 
 개발기간 : 2024. 07. 19 ~ 2024. 08. 06
 
+개발인원 : 5인
+
 담당역할 : Back End, Spring Data JPA를 이용한 게시판 만들기 및 각종 기능 구현
 
-Language : Java, JavaScript
-
-Skill : Spring Boot, Spring Data JPA, MySQL
+사용 기술: MySQL, Java, JavaScript, CSS, HTML5, BootStrap, Spring Framework, Spring Boot, Spring Data JPA 
 
 <a href="https://github.com/minsu0604/minsu_spring_project">영화 커뮤니티 사이트</a>
+
+
+
+📢 FundingApp - 프로젝트를 후원하여 원하는 상품을 펀딩하는 어플리케이션
+
+개발기간 : 2024. 09. 03 ~ 2024. 09. 13
+
+개발인원 : 5인
+
+담당역할 : Back End, Spring Data JPA를 이용한 게시판 만들기 및 각종 기능 구현
+
+사용 기술: Android Studio, Kotlin, JavaScript, CSS, Java, MySQL, React, Firebase, Spring Boot, Spring Data JPA
+
+<a href="https://github.com/minsu0604/minsu_spring-kotlin_project">펀딩 소셜 커머스 앱</a>
 
 
 
