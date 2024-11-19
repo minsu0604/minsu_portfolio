@@ -29,6 +29,8 @@ Language : Java, JavaScript
 
 Skill : Spring Boot, Spring Data JPA, MySQL
 
+<a href="https://github.com/minsu0604/minsu_spring_project">영화 커뮤니티 사이트</a><p> : 스프링 부트를 이용하여 영화게시판 만들기</p>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
