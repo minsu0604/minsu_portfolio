@@ -29,13 +29,13 @@
 
 개발인원 : 5인
 
-담당역할 : Back End, Spring Data JPA를 이용한 게시판 만들기 및 각종 기능 구현
+담당역할 : Back End - 스프링부트를 통한 서버 구현 및 게시판 만들기
 
 사용 기술: MySQL, Java, JavaScript, CSS, HTML5, BootStrap, Spring Framework, Spring Boot, Spring Data JPA 
 
 <a href="https://github.com/minsu0604/minsu_spring_project">영화 커뮤니티 사이트</a>
 
-
+<hr>
 
 📢 FundingApp - 프로젝트를 후원하여 원하는 상품을 펀딩하는 어플리케이션
 
@@ -43,13 +43,25 @@
 
 개발인원 : 5인
 
-담당역할 : Back End, Spring Data JPA를 이용한 게시판 만들기 및 각종 기능 구현
+담당역할 : Back End - 스프링부트 전체 서버 구현 및 DB 데이터 삽입
 
 사용 기술: Android Studio, Kotlin, JavaScript, CSS, Java, MySQL, React, Firebase, Spring Boot, Spring Data JPA
 
 <a href="https://github.com/minsu0604/minsu_spring-kotlin_project">펀딩 소셜 커머스 앱</a>
 
+<hr>
 
+📢 YESIM - QR 코드 활용 비품 관리 시스템
+
+개발기간 : 2024. 10. 02 ~ 2024. 10. 24
+
+개발인원 : 5인
+
+담당역할 : Back End - 스프링부트 서버 구현 및 DB 관리와 자료 조사 및 데이터 기입
+
+사용 기술: Android Studio, Kotlin, JavaScript, CSS, Java, MySQL, React, Firebase, Spring Boot, Spring Data JPA, ZXing
+
+<a href="https://github.com/minsu0604/minsu_spring-kotlin-react_project">비품 관리 시스템</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
