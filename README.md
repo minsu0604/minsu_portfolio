@@ -1,5 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
+<h1>성실히 배우며 성장하는 개발자 마민수의 포트폴리오</h1>
+
+<h2>교육 과정</h2>
+교육기관 : 부산인재개발원 부산IT교육센터
+과정명 : [K 디지털] 실무 프로젝트 기반 풀스택(스프링, 리액트, 앱) 개발자 양성
+교육 기간 : 2024. 04. 22 ~ 2024. 10. 31
+
+<hr>
+
 <h2>사용 언어 및 기술</h2>
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
