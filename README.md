@@ -1,9 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-1. 🎞 movcom
-movie community
-
-영화를 주제로 한 커뮤니티 (K-디지털 - 3조 팀 프로젝트)
+1.  📢 Movie Community - 영화를 주제로 한 커뮤니티 (K-디지털 - 3조 팀 프로젝트)
 
 개발기간 : 2024. 07. 19 ~ 2024. 08. 06
 
