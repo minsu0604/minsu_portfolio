@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-<h1>성실히 배우며 성장하는 개발자 마민수의 포트폴리오</h1>
+<h1 class="text-center">성실히 배우며 성장하는 개발자 마민수의 포트폴리오</h1>
 
 <h2>교육 과정</h2>
 교육기관 : 부산인재개발원 부산IT교육센터
