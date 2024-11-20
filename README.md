@@ -34,6 +34,10 @@
 
 <hr>
 
+<h1>🎢 레포지토리 기술 분포도</h1>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsu0604&layout=compact)
+
 <h2>프로젝트 목록</h2>
 
 📢 Movie Community - 영화를 주제로 한 커뮤니티
